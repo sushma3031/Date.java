@@ -9,6 +9,7 @@ class student {
     }
     public void display() {
         System.out.println("*********");
+        System.out.println("This is java program");
         System.out.println("Student details");
         System.out.println("Student Name: " + name);
         System.out.println("Roll Number: " + rollNumber);
